@@ -14,6 +14,7 @@ const UsersItem = props => {
                         <Avatar image={props.image} alt={props.name} />
                     </div>
                     <div className="user-item__info">
+                        <p>Days in quarantine 7</p>
                         <h2>{props.name}</h2>
                         <h3>{props.shortDescription}</h3>
                     </div>
