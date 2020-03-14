@@ -20,7 +20,7 @@ const NavLinks = props => {
                 <NavLink to="/u1/profile">My profile</NavLink>
             </li>
             <li>
-                <NavLink to="/auth">Authenticate</NavLink>
+                <NavLink to="/signUp">Sign Up</NavLink>
             </li>
         </ul>
     );
