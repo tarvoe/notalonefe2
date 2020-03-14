@@ -1,0 +1,14 @@
+.link a:visited,
+.link a:link,
+.link a:active,
+.link a:hover,
+.link {
+  color: #f063b8;
+  text-align: center;
+  text-decoration-line: underline;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 160%;
+}

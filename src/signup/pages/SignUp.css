@@ -1,0 +1,40 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  height: 100vh;
+  flex: 1;
+}
+
+.floating-box {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  background-color: rgba(156, 105, 226, 0.3);
+  border-radius: 50px;
+  padding-top: 90px;
+  padding-bottom: 40px;
+  padding-right: 200px;
+  padding-left: 200px;
+}
+
+.title {
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 130%;
+  color: #212353;
+}
+
+.secondary-text {
+  color: #4b5d68;
+  margin-top: 50px;
+  max-width: 584px;
+  margin-bottom: 35px;
+}
+
+.button {
+    margin-bottom: 40px;
+    margin-top: 15px;
+}

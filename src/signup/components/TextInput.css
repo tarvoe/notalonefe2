@@ -1,0 +1,18 @@
+.input-container {
+  background: #ffffff;
+  box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+  border-radius: 50px;
+  align-self: center;
+  margin-bottom: 20px;
+  color: #bdbdbd;
+
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 16px;
+  line-height: 160%;
+
+  padding: 13px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
